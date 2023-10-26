@@ -23,25 +23,33 @@ The app is a combination of various AI features including object detection and r
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/FdY6vqwy/1.jpg) 
+<div style="display: flex; flex-wrap: wrap;">
 
-![App Screenshot](https://i.postimg.cc/N2TP9XsL/2.jpg)
+  <img src="https://i.postimg.cc/FdY6vqwy/1.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/PN87FgWh/3.jpg)
+  <img src="https://i.postimg.cc/N2TP9XsL/2.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/WhLyR58Z/4.jpg)
+  <img src="https://i.postimg.cc/PN87FgWh/3.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/bZqFrdKN/6.jpg)
+  <img src="https://i.postimg.cc/WhLyR58Z/4.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/cKbDFh6r/7.jpg)
+  <img src="https://i.postimg.cc/bZqFrdKN/6.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/hJjy86Dk/8.jpg)
+  <img src="https://i.postimg.cc/cKbDFh6r/7.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/Yh6stQDs/9.jpg)
+  <img src="https://i.postimg.cc/hJjy86Dk/8.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/K1QpMx27/10.jpg)
+  <img src="https://i.postimg.cc/Yh6stQDs/9.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
 
-![App Screenshot](https://i.postimg.cc/PpvS9D8K/11.jpg)
+  <img src="https://i.postimg.cc/K1QpMx27/10.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
+
+  <img src="https://i.postimg.cc/PpvS9D8K/11.jpg" alt="App Screenshot" width="200" style="margin-right: 30px;" />
+
+</div>
+
+
+
+
 
 
 
